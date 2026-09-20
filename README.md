@@ -4,7 +4,7 @@
 
 ## 📥 原始 PDF 下载
 
-> **[点击下载《AI 原生实践避坑指南（内部分享）》PDF](./assets/ai-native-practice-pitfalls-guide.pdf?download=1)**
+> **[点击下载《AI 原生实践避坑指南（内部分享）》PDF](https://github.com/freestylefly/ai-native-practice-pitfalls/raw/refs/heads/main/assets/ai-native-practice-pitfalls-guide.pdf)**
 
 文件共 17 页，大小约 344 KB。下载和传播时请保留来源说明，并遵循原作者及原发布方的相关要求。
 
